@@ -1,1 +1,1 @@
-# Technical-cloud-skills
+# Technical-cloud-skill
